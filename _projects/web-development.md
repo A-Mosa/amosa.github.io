@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Full Stack Web Development
+# description: Teaching how to create full stack websites (front-end and back-end) using HTM, CSS, JavaScript and PHP
+img: assets/img/logo-reactnative.png
+importance: 1
+category: University of Strathclyde - UK
 ---
 
 Every project has a beautiful feature showcase page.
