@@ -5,7 +5,7 @@ date:   2022-12-24 20:05:00
 description: Explaining the concept of type systems in programming languages. You will understand the difference between static and dyanmic typing as well as strong and weak typing. You will also learn that JavaScript is dynamically and weakly typed language.
 tags: JavaScript, Type-System, dynamic-typing, static-typing, weak-typing, strong-typing
 categories: JavaScript
-disqus_comments: true
+giscus_comments: true
 ---
 <blockquote>
     JavaScript is known to be dynamically and weakly or loosely typed.
